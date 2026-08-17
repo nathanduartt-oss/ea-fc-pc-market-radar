@@ -1,0 +1,5 @@
+[
+  {"player_name":"Sadio Mane","rating":98,"card_type":"special","promo":"FUTTIES","position":null,"definition_id":"100872018","resource_id":null,"source_id":null,"tradeable":true,"platform":"pc","sanity_reference_price":88000,"sanity_tolerance_percent":20},
+  {"player_name":"Antoine Semenyo","rating":98,"card_type":"special","promo":"FUTTIES","position":null,"definition_id":"184790612","resource_id":null,"source_id":null,"tradeable":true,"platform":"pc","sanity_reference_price":260000,"sanity_tolerance_percent":20},
+  {"player_name":"Gilberto Silva","rating":97,"card_type":"hero","promo":"FUTTIES Hero","position":null,"definition_id":"100710686","resource_id":null,"source_id":null,"tradeable":true,"platform":"pc"}
+]

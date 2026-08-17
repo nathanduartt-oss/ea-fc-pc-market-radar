@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ea-fc-pc-market-radar"
+version = "0.1.0"
+description = "Fail-closed EA FC 26 PC public market price collector"
+requires-python = ">=3.12"
+dependencies = ["httpx[socks]>=0.27,<1", "pydantic>=2.7,<3"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9", "respx>=0.21,<1"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
