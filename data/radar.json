@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:55:37.177589+00:00",
+  "generated_at": "2026-08-17T14:49:16.124413+00:00",
   "platform": "pc",
   "cards": [
     {
@@ -42,14 +42,14 @@
       "rating": 98,
       "promo": "FUTTIES",
       "id": "184790612",
-      "pc_price": null,
-      "updated_at": null,
-      "age_minutes": null,
-      "price_valid": false,
-      "quote_quality": 0,
+      "pc_price": 238000,
+      "updated_at": "2026-08-17T14:45:40.380000+00:00",
+      "age_minutes": 3.6,
+      "price_valid": true,
+      "quote_quality": 69,
       "price_1h_ago": 240000,
-      "change_1h": null,
-      "price_2h_ago": null,
+      "change_1h": -0.83,
+      "price_2h_ago": 240000,
       "price_3h_ago": null,
       "change_3h": null,
       "price_6h_ago": null,
@@ -64,27 +64,27 @@
       "false_recovery": false,
       "trend": "unknown",
       "sources": {
-        "futnext": null,
+        "futnext": 238000,
         "futgg": null,
         "futbin": null,
         "futwiz": null
       },
       "source_disagreement_percent": null,
-      "anomaly": true
+      "anomaly": false
     },
     {
       "name": "Gilberto Silva",
       "rating": 97,
       "promo": "FUTTIES Hero",
       "id": "100710686",
-      "pc_price": 98000,
-      "updated_at": "2026-08-17T12:45:41.798000+00:00",
-      "age_minutes": 9.92,
+      "pc_price": 90000,
+      "updated_at": "2026-08-17T14:45:40.380000+00:00",
+      "age_minutes": 3.6,
       "price_valid": true,
       "quote_quality": 69,
-      "price_1h_ago": 99000,
-      "change_1h": -1.01,
-      "price_2h_ago": null,
+      "price_1h_ago": 98000,
+      "change_1h": -8.16,
+      "price_2h_ago": 99000,
       "price_3h_ago": null,
       "change_3h": null,
       "price_6h_ago": null,
@@ -99,7 +99,7 @@
       "false_recovery": false,
       "trend": "unknown",
       "sources": {
-        "futnext": 98000,
+        "futnext": 90000,
         "futgg": null,
         "futbin": null,
         "futwiz": null
