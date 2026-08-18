@@ -1,0 +1,30 @@
+{
+  "collected_at": "2026-08-18T08:04:29.745518+00:00",
+  "platform": "pc",
+  "observations": [
+    {
+      "player_name": "Antoine Semenyo",
+      "rating": 98,
+      "card_type": "special",
+      "promo": "FUTTIES",
+      "position": null,
+      "definition_id": "184790612",
+      "resource_id": null,
+      "source_id": null,
+      "tradeable": true,
+      "platform": "pc",
+      "price": 210000,
+      "source": "futnext",
+      "source_updated_at": "2026-08-18T07:55:43.920000Z",
+      "collected_at": "2026-08-18T08:04:30.535533Z",
+      "price_valid": true,
+      "confidence": 72,
+      "source_status": "ok",
+      "reason": null,
+      "price_age_minutes": 8.763758633333333,
+      "freshness": "fresh",
+      "outlier": false,
+      "anomaly": false
+    }
+  ]
+}
