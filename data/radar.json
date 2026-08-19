@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:14:04.231788+00:00",
+  "generated_at": "2026-08-19T17:59:07.413418+00:00",
   "platform": "pc",
   "cards": [
     {
@@ -54,7 +54,7 @@
       "change_3h": null,
       "price_6h_ago": 219000,
       "change_6h": null,
-      "price_12h_ago": 235000,
+      "price_12h_ago": 219000,
       "change_12h": null,
       "price_24h_ago": 235000,
       "change_24h": null,
@@ -84,14 +84,14 @@
       "quote_quality": 0,
       "price_1h_ago": 90000,
       "change_1h": null,
-      "price_2h_ago": 95000,
+      "price_2h_ago": 90000,
       "price_3h_ago": 95000,
       "change_3h": null,
       "price_6h_ago": 96000,
       "change_6h": null,
-      "price_12h_ago": 105000,
+      "price_12h_ago": 96000,
       "change_12h": null,
-      "price_24h_ago": 94500,
+      "price_24h_ago": 90000,
       "change_24h": null,
       "new_low": true,
       "stabilizing": false,
