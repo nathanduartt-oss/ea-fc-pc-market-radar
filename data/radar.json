@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:54:28.262409+00:00",
+  "generated_at": "2026-08-22T16:59:47.594445+00:00",
   "platform": "pc",
   "cards": [
     {
@@ -82,9 +82,9 @@
       "age_minutes": null,
       "price_valid": false,
       "quote_quality": 0,
-      "price_1h_ago": 85000,
+      "price_1h_ago": 80000,
       "change_1h": null,
-      "price_2h_ago": 85000,
+      "price_2h_ago": 80000,
       "price_3h_ago": 85000,
       "change_3h": null,
       "price_6h_ago": 85000,
