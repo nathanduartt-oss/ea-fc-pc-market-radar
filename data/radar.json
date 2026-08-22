@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:59:11.102461+00:00",
+  "generated_at": "2026-08-22T11:55:49.772731+00:00",
   "platform": "pc",
   "cards": [
     {
@@ -91,7 +91,7 @@
       "change_6h": null,
       "price_12h_ago": 95000,
       "change_12h": null,
-      "price_24h_ago": 91500,
+      "price_24h_ago": 92500,
       "change_24h": null,
       "new_low": true,
       "stabilizing": false,
