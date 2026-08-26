@@ -1,0 +1,30 @@
+{
+  "collected_at": "2026-08-26T03:38:49.735359+00:00",
+  "platform": "pc",
+  "observations": [
+    {
+      "player_name": "Sadio Mane",
+      "rating": 98,
+      "card_type": "special",
+      "promo": "FUTTIES",
+      "position": null,
+      "definition_id": "100872018",
+      "resource_id": null,
+      "source_id": null,
+      "tradeable": true,
+      "platform": "pc",
+      "price": 75000,
+      "source": "futnext",
+      "source_updated_at": "2026-08-26T03:37:10.499000Z",
+      "collected_at": "2026-08-26T03:38:50.176570Z",
+      "price_valid": true,
+      "confidence": 72,
+      "source_status": "ok",
+      "reason": null,
+      "price_age_minutes": 1.6539393166666665,
+      "freshness": "fresh",
+      "outlier": false,
+      "anomaly": false
+    }
+  ]
+}
