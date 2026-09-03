@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:30:09.293540+00:00",
+  "generated_at": "2026-09-03T16:28:09.969007+00:00",
   "platform": "pc",
   "cards": [
     {
@@ -77,35 +77,35 @@
       "rating": 97,
       "promo": "FUTTIES Hero",
       "id": "100710686",
-      "pc_price": null,
-      "updated_at": null,
-      "age_minutes": null,
-      "price_valid": false,
-      "quote_quality": 0,
+      "pc_price": 35000,
+      "updated_at": "2026-09-03T16:25:59.686000+00:00",
+      "age_minutes": 2.17,
+      "price_valid": true,
+      "quote_quality": 69,
       "price_1h_ago": 22000,
-      "change_1h": null,
+      "change_1h": 59.09,
       "price_2h_ago": 44750,
       "price_3h_ago": 44750,
-      "change_3h": null,
+      "change_3h": -21.79,
       "price_6h_ago": 44750,
-      "change_6h": null,
+      "change_6h": -21.79,
       "price_12h_ago": 48750,
-      "change_12h": null,
+      "change_12h": -28.21,
       "price_24h_ago": 48750,
-      "change_24h": null,
+      "change_24h": -28.21,
       "new_low": true,
       "stabilizing": false,
       "recovering": false,
-      "false_recovery": false,
-      "trend": "unknown",
+      "false_recovery": true,
+      "trend": "false_recovery",
       "sources": {
-        "futnext": null,
+        "futnext": 35000,
         "futgg": null,
         "futbin": null,
         "futwiz": null
       },
       "source_disagreement_percent": null,
-      "anomaly": true
+      "anomaly": false
     }
   ]
 }
