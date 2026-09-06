@@ -1,0 +1,30 @@
+{
+  "collected_at": "2026-09-06T11:24:58.011243+00:00",
+  "platform": "pc",
+  "observations": [
+    {
+      "player_name": "Gilberto Silva",
+      "rating": 97,
+      "card_type": "hero",
+      "promo": "FUTTIES Hero",
+      "position": null,
+      "definition_id": "100710686",
+      "resource_id": null,
+      "source_id": null,
+      "tradeable": true,
+      "platform": "pc",
+      "price": 16250,
+      "source": "futnext",
+      "source_updated_at": "2026-09-06T11:15:59.812000Z",
+      "collected_at": "2026-09-06T11:24:58.709646Z",
+      "price_valid": true,
+      "confidence": 72,
+      "source_status": "ok",
+      "reason": null,
+      "price_age_minutes": 8.969987383333335,
+      "freshness": "fresh",
+      "outlier": false,
+      "anomaly": false
+    }
+  ]
+}
