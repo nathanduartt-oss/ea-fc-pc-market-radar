@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:25:12.507904+00:00",
+  "generated_at": "2026-09-13T18:29:04.301005+00:00",
   "platform": "pc",
   "cards": [
     {
@@ -78,8 +78,8 @@
       "promo": "FUTTIES Hero",
       "id": "100710686",
       "pc_price": 26000,
-      "updated_at": "2026-09-13T17:23:56.616000+00:00",
-      "age_minutes": 1.26,
+      "updated_at": "2026-09-13T18:23:59.017000+00:00",
+      "age_minutes": 5.09,
       "price_valid": true,
       "quote_quality": 69,
       "price_1h_ago": 26000,
@@ -87,8 +87,8 @@
       "price_2h_ago": 26000,
       "price_3h_ago": 26000,
       "change_3h": 0.0,
-      "price_6h_ago": 19750,
-      "change_6h": 31.65,
+      "price_6h_ago": 26000,
+      "change_6h": 0.0,
       "price_12h_ago": 19750,
       "change_12h": 31.65,
       "price_24h_ago": 19750,
